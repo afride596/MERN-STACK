@@ -15,7 +15,8 @@ console.table([name,age,isLoggedIn])
 // symbol => unique 
 
 // non-primitive dataTypes
- 
+
 // Array=[]
 // Object={}
 // Function=>function(){}
+console.log(typeof name);
